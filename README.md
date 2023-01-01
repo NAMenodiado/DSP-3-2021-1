@@ -1,6 +1,6 @@
 # DSP-3-2021-1
 
-This repository is owned by Miguel Carlos Amoroso, Kenneth Roel Atienza, Riff Kurtees Ladera, and Nico Angelo Menodiado. This repository is part of our submission for completion of our thesis. <br>
+This repository is owned by Miguel Carlos Amoroso, Kenneth Roel Atienza, Riff Kurtees Ladera, and Nico Angelo Menodiado. This repository is part of our submission for completion of our thesis. Our paper can be found <a href = "https://animorepository.dlsu.edu.ph/etdb_ece/19/"> here. </a> <br>
 
 ## How to use:
 These files are meant to be used with AlexeyAB's repository (https://github.com/AlexeyAB/darknet). <br>
